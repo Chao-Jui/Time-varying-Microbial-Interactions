@@ -1,0 +1,10 @@
+"","Type_combination","count","average_rho_Lmax","sd_rho_Lmax"
+"7","Metabolites → Community",31,0.724696372209802,0.096019257988822
+"3","Community → Metabolites",32,0.709175917305069,0.144551848771049
+"2","Community → Interaction",27,0.67263057375908,0.125786105609853
+"4","Interaction → Community",25,0.631846749448982,0.122275865323203
+"8","Metabolites → Interaction",53,0.666310878746822,0.133650992954141
+"6","Interaction → Metabolites",48,0.568222435513284,0.172756129665387
+"9","Metabolites → Metabolites",63,0.79366614532098,0.122828518191218
+"1","Community → Community",16,0.804131127044937,0.1210089283667
+"5","Interaction → Interaction",44,0.699520321893658,0.196611778208129
