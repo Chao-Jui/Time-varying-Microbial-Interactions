@@ -1,0 +1,8 @@
+We first reconstructed the time-varying interaction network in 1.Mother_MDR_Smap_20230929-LEVEL6-H2-funal-adjust-upload.R
+then, we calculate the network property in  
+2.UASB_network_cutting_level6_20231023_H2_Final_upload.R, 
+3.network_property_level6_interaction_type_20231012_v5_subset_all_SB_Mij_revised_H2_final_(modified_function)_upload.R
+4.network_property_level6_20231023_H2_Final_upload.R
+5.network_property_level6_20231030_v4_H2_adjust_mean and propotion_upload.R
+finally, we calculate the interaction complexity in 6.Interaction_complexity_upload.R
+And plot figure 4 in  7.draft_UASB_Main_fugure_4_a-f_upload.R
