@@ -1,1 +1,13 @@
-
+We first calculated the causality of all variables in the R script 1.CCM_Demo_Rcode_UASB_Mother_v3_upload.R
+and we got the result named ccmda_UASB_dtrend_T_dTtype_linear_v3_all_combination_make legend.csv
+#
+then we calculated the averaged strength of causality of variables between the three groups in R script 2.data_visualization_arrow_version_upload.R
+and we got the file average_rho_Lmax.csv
+#
+after that
+We combine two CSV files ccmda_UASB_dtrend_T_dTtype_linear_v3_all_combination_make legend.csv and average_rho_Lmax.csv into ccmda_UASB_dtrend_T_dTtype_linear_v3_all_combination_make legend.csv
+Finally, we start to plot Figure 5 in the R script 3.ploting_v4_all_nodes_with color_edge_same_label_with_share_legend_upload.R
+and we get the figures causality_v4_metabolites_with label.jpg, causality_v4_microbial community_with label.jpg, and causality_v4_microbial Inertaction_with label.jpg that are correspond to Figure5 A-C
+and we also got the color legend in from this script and the color code file:data_check_colar.csv
+#
+Then, we manually plot Figure 5D according to the average and standard deviation strength of causality in the file average_rho_Lmax.csv and colored the edges according to the color codes in file data_check_colar.csv
