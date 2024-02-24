@@ -15,7 +15,7 @@ dist.data <- data.frame(braycurtis.dist)
 #export data
 distmat <- as.matrix(braycurtis.dist)
 #setwd(save.wd)
-#write.csv(distmat,"braycurtis.dist.csv") 
+write.csv(distmat,"braycurtis.dist.csv") 
 
 df.pcoa=pcoa(braycurtis.dist,correction="none") 
 #correction	Correction methods for negative eigenvalues (details below): "lingoes" and "cailliez". Default value: "none".
