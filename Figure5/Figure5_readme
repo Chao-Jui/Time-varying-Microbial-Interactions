@@ -1,6 +1,6 @@
 We first calculated the causality of all variables in the R script 1.CCM_Demo_Rcode_UASB_Mother_v3_upload.R
 and we got the result named ccmda_UASB_dtrend_T_dTtype_linear_v3_all_combination_make legend.csv
-#
+# 
 then we calculated the averaged strength of causality of variables between the three groups in R script 2.data_visualization_arrow_version_upload.R
 and we got the file average_rho_Lmax.csv
 #
