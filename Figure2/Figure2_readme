@@ -1,1 +1,4 @@
+The thermodynamics calculation is described in the thermodynamics calculation_v9_Figure2_20231019_upload.xlsx and thermodynamics calculation_v9_Figure2_20231019_upload description.docx
+and all the data for Figure2 is summarized in Figure2_data.csv
 
+The figure2 is visualized by the R script Main_lineplot_Figure2_V5_upload.R
