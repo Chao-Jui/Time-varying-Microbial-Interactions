@@ -1,3 +1,4 @@
+### this code was modified from code provided in scientific research entitled, "Reconstructing large interaction networks from empirical time series data"
 # R-code for  Multiview Distance Regularized S-map (MDR S-map)
 # Article: Reconstructing large interaction networks from empirical time series data 
 # Authors: Chun-Wei Chang, Takeshi Miki, Masayuki Ushio, Po-Ju Ke, Hsiao-Pei Lu, Fuh-Kwo Shiah, and Chih-hao Hsieh
