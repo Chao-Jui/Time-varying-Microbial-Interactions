@@ -27,7 +27,7 @@ gradient <- colorRampPalette(colors = c("red","gray99","navyblue")) #gradient co
 colors <- gradient(length(data.plot$day)) #Create functions for ranking RANK and color
 data.plot$label = colors[data.plot$rank] #Color-mark the data of each day according to the ranking RANK
 #3D圖
-p=scatterplot3d(x=data.plot$Axis.1,z=data.plot$G_real,y=data.plot$Axis.1, #data
+p=scatterplot3d(x=data.plot$Axis.1,z=data.plot$G_real,y=data.plot$Axis.2, #data
                 xlab = "PC1 (77.31%)", zlab = "", ylab = "PC2 (8.49%)", #label
                 #xlab = "", zlab = "", ylab = "", #label
                 pch = 16, #point type
